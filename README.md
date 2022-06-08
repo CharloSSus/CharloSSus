@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharloSSus
 - 👀 I’m interested in multiplataform app development and web development!
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning web development
 
 
 <!---
