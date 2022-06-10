@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharloSSus
-- 👀 I’m interested in multiplataform app development, web development and game development
+- 👀 I’m interested in multiplatform app development, web development and game development
 - 🌱 I’m currently working on a RogueLike Game, similar to "The binding of isaac", but based in the pop-culture.
 
 
